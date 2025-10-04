@@ -10,3 +10,7 @@
 # macOS Finder files
 .fseventsd
 Spotlight-V100
+
+__pycache__/
+*.pyc
+*.pyo
